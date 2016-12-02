@@ -8,7 +8,7 @@ Les concepts suivants sont abordés dans ce projet :
 - La création d'une base de données mysql ;
 - La réalisation du mapping objet relationnel avec JDBC ;
 - La création un pattern Singleton ;
-- L'utiliser le pilote JDBC ;
+- L'utilisatio du pilote JDBC ;
 - Le respect du pattern MVC ;
 - La création d'une servlet ;
 - Le déployement d'une servlet : web.xml ou annotations ;
